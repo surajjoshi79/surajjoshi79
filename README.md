@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Suraj Joshi</h1>
+<h3 align="center">A passionate mobile developer from India. B.Tech CSE Student Specializing in Data Science and Analytics | Passionate About Flutter and AI Integration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjoshi79&label=Profile%20views&color=0e75b6&style=flat" alt="surajjoshi79" /> </p>
 
@@ -18,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/19surajjoshi25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="19surajjoshi25" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/justcoding_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="justcoding_25" height="30" width="40" /></a>
 </p>
 
