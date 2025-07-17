@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjoshi79&label=Profile%20views&color=0e75b6&style=flat" alt="surajjoshi79" /> </p>
 
-- 🔭 I’m currently working on **WhatsApp clone**
+- 🔭 I’m currently working on **Spotify clone**
 
-- 🌱 I’m currently learning **Salesforce platform**
+- 🌱 I’m currently learning **Dynamic Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajjoshi79](https://github.com/surajjoshi79)
 
