@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **Dynamic Programming**
+- 🌱 I’m currently learning **Testing in flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajjoshi79](https://github.com/surajjoshi79)
 
